@@ -1,0 +1,4 @@
+atommaterial.a-file-icon-vscode
+be5invis.vscode-icontheme-nomo-dark
+gantoreno.vscode-vercel-theme
+github.github-vscode-theme

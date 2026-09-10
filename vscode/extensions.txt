@@ -1,0 +1,37 @@
+# Themes & icons
+akamud.vscode-theme-onedark
+github.github-vscode-theme
+pkief.material-icon-theme
+vscode-icons-team.vscode-icons
+
+# Formatting & lint
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+biomejs.biome
+
+# TypeScript / frontend
+bradlc.vscode-tailwindcss
+dejmedus.tailwind-sorter
+yoavbls.pretty-ts-errors
+christian-kohler.npm-intellisense
+wix.vscode-import-cost
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+heybourn.headwind
+burkeholland.simple-react-snippets
+
+# Editor extras
+tonybaloney.vscode-pets
+adpyke.codesnap
+oderwat.indent-rainbow
+bierner.color-info
+bruceyuhb.hsl-preview
+swiftlydaniel.oklch-color-visualiser
+ritwickdey.liveserver
+ecmel.vscode-html-css
+ms-vsliveshare.vsliveshare
+
+# Optional
+# github.copilot
+# github.copilot-chat
+# visualstudioexptteam.vscodeintellicode

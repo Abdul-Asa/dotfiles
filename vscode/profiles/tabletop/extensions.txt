@@ -1,0 +1,7 @@
+akamud.vscode-theme-onedark
+bradlc.vscode-tailwindcss
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+vscode-icons-team.vscode-icons

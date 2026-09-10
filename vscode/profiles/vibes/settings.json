@@ -1,0 +1,30 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyScroll.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.largeFileOptimizations": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "editor.minimap.autohide": "mouseover",
+  "vscode-pets.theme": "beach",
+  "vscode-pets.petSize": "small",
+  "vscode-pets.throwBallWithMouse": true,
+  "git.openRepositoryInParentFolders": "never",
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 13,
+  "editor.fontFamily": "JetBrains Mono, Geist Mono, Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.initialHint": false
+}

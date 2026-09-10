@@ -1,0 +1,97 @@
+{
+  // ─── Editor (font, formatting, behavior) ─────────────────────
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "editor.renderWhitespace": "selection",
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": true,
+
+  // ─── Files (save, exclude, associations) ─────────────────────
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.cursor/skills": true,
+    "**/.cursor/agents": true,
+    "**/.claude/skills": true,
+    "**/.claude/agents": true,
+    "**/.agents": true,
+    "**/.codex": true,
+    "**/.deepsec": true,
+    "**/.github/skills": true,
+    "**/.github/agents": true,
+    "**/.github/hooks": true,
+    "**/.opencode/skills": true
+  },
+
+  // ─── Search (exclude from search results) ────────────────────
+  "search.exclude": {
+    "**/.build": true,
+    "**/.gh-pages": true,
+    "**/.git": true,
+    "**/build": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/package-lock.json": true,
+    "**/pnpm-lock.yaml": true,
+    "**/yarn.lock": true,
+    "**/.cursor/skills": true,
+    "**/.cursor/agents": true,
+    "**/.claude/skills": true,
+    "**/.claude/agents": true,
+    "**/.agents": true,
+    "**/.codex": true,
+    "**/.deepsec": true,
+    "**/.github/skills": true,
+    "**/.github/agents": true,
+    "**/.github/hooks": true,
+    "**/.opencode/skills": true,
+    "**/bun.lock": true
+  },
+
+  // ─── Terminal ────────────────────────────────────────────────
+  "terminal.integrated.fontFamily": "Monaco",
+  "terminal.integrated.fontSize": 13,
+
+  // ─── Workbench (theme, icons, tabs, sidebar) ─────────────────
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor",
+    "*.excalidraw": "editor.excalidraw"
+  },
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/layout.tsx": "${dirname} — layout",
+    "**/app/**/page.tsx": "${dirname} — page",
+    "**/components/**/index.tsx": "${dirname} — component",
+    "**/index.*": "${dirname}/${filename}.${extname}"
+  },
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "json.schemaDownload.enable": true,
+  "git.enableSmartCommit": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "git.openRepositoryInParentFolders": "never",
+  "tailwindCSS.classFunctions": ["cva", "cx"],
+  "cursor.cpp.disabledLanguages": ["markdown"],
+  "window.autoDetectColorScheme": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.allowedLinkSchemes": [
+    "file",
+    "http",
+    "https",
+    "mailto",
+    "vscode",
+    "vscode-insiders",
+    "docker-desktop"
+  ],
+  "cursor.composer.queueMessageDefaultBehavior": "steer"
+}

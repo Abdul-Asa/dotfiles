@@ -1,0 +1,13 @@
+[user]
+	name = Abdul-asa
+	email = bigtulahi1@gmail.com
+[include]
+	path = ~/.gitconfig.local
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[core]
+	autocrlf = input
+[push]
+	autoSetupRemote = true

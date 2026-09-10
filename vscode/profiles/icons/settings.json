@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "vs-nomo-dark",
+  "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+  "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "terminal.integrated.fontFamily": "Geist Mono"
+}

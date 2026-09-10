@@ -1,0 +1,29 @@
+# Themes & icons
+github.github-vscode-theme
+pkief.material-icon-theme
+
+# Formatting & lint
+oxc.oxc-vscode
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+biomejs.biome
+davidanson.vscode-markdownlint
+
+# TypeScript / frontend
+bradlc.vscode-tailwindcss
+dejmedus.tailwind-sorter
+yoavbls.pretty-ts-errors
+christian-kohler.npm-intellisense
+wix.vscode-import-cost
+oven.bun-vscode
+
+# Editor extras
+pomdtr.excalidraw-editor
+swiftlydaniel.oklch-color-visualiser
+tomoki1207.pdf
+github.vscode-pull-request-github
+
+# Optional / machine-specific
+# anysphere.remote-ssh
+# anysphere.remote-containers
+# databricks.neon-local-connect

@@ -1,0 +1,84 @@
+{
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyScroll.enabled": true,
+  "reactSnippets.settings.prettierEnabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.largeFileOptimizations": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "editor.minimap.autohide": "mouseover",
+  "vscode-pets.theme": "beach",
+  "vscode-pets.petSize": "small",
+  "vscode-pets.throwBallWithMouse": true,
+  "git.openRepositoryInParentFolders": "never",
+  "git.enableSmartCommit": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[haskell]": {
+    "editor.defaultFormatter": "haskell.haskell"
+  },
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontFamily": "JetBrains Mono, Geist Mono, Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
+  "workbench.productIconTheme": "icons-carbon",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "sqltools.autoOpenSessionFiles": false,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle",
+  "workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "*.pdf": "pdf.preview",
+    "*.md": "default",
+    "*.csv": "default"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "code-runner.runInTerminal": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "off"
+    }
+  },
+  "toggleexcludedfiles.explorer.enabled": true,
+  "git.autofetch": true,
+  "haskell.manageHLS": "GHCup",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "database-client.autoSync": true,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "typescript": false
+  },
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Atom One Dark"
+}
